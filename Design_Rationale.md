@@ -349,6 +349,4 @@ The working prototype demonstrates that a pitch deck mindset, where data serves 
 
 ---
 
-**End of Design Rationale Document**
-
 *contact: viditbansal2020@gmail.com*  
