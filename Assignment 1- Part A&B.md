@@ -4,7 +4,7 @@
 
 - Design Rationale Document: [Open Design Rationale Document](https://github.com/vidit401/Deep-Thought-Internship-Application/blob/main/Design_Rationale.md)
 
-- Handwritten Wireframe: (sent in internshala chat window as well): 
+- Handwritten Wireframe: (sent in internshala chat window as well): [Image of Wireframe](https://github.com/vidit401/Deep-Thought-Internship-Application/blob/main/portfolio_design-wireframe.jpeg)
 
 - 3-Key decisions (sent in internshala chat window as well):
 
