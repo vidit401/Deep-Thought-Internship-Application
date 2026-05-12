@@ -1,2 +1,7 @@
 # Deep-Thought-Internship-Application
-Assignment and other resources which were asked for by the DT Team
+## Assignment and other resources which were asked for by the DT Team
+### Part A
+- Link: 
+
+### Part B
+- Link:
